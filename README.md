@@ -10,4 +10,6 @@
 ![Screenshot 2023-06-04 192840](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/105db61f-4b41-410b-ac54-2bd8bc039a24)
 6. Random Color Generator with Hexacode
 ![Screenshot 2023-06-05 205901](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/e8f1f084-9a9b-426b-b48f-8287c8b9f750)
+7. Cursor Trail Effect
+![Screenshot 2023-06-06 133001](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/8524f23b-1007-4150-ac92-d09ffd8d4566)
 
