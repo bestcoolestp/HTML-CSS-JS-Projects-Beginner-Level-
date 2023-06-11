@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Shadows+Into+Light&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #D3EEDD;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Shadows Into Light', cursive;
+    background: url('https://images.unsplash.com/photo-1579705379068-011cb467453f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80');
+    background-size: cover;
+}
+
+h1 {
+    font-size: 10rem;
+    color: #2E4057;
+}
