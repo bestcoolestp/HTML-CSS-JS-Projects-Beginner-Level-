@@ -16,4 +16,7 @@
 ![Screenshot 2023-06-10 201356](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/16c60c64-feee-444d-9c84-fb88e8cfb4da)
 9. Auto Text Effect
 ![Screenshot 2023-06-11 134027](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/982dd66b-0225-4ddc-9ad8-ccad33b6043e)
+10. Random Backgound & Image Slider
+![Screenshot 2023-06-12 143449](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/be62bf6a-d720-48d7-8379-72aae1a6c388)
+
 
