@@ -20,5 +20,9 @@
 ![Screenshot 2023-06-12 143449](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/be62bf6a-d720-48d7-8379-72aae1a6c388)
 11. Tab Sections
 ![Screenshot 2023-06-13 100950](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/6d1745a6-a0e5-4886-abd3-3e58b77821fb)
+12. Video trailer & Popup
+![Screenshot 2023-06-15 140223](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/56a7a7ed-6784-41ab-9623-0dd563115abf)
+![Screenshot 2023-06-15 141430](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/3a2c48bb-23be-4caf-8582-d06a773d4f6e)
+
 
 
