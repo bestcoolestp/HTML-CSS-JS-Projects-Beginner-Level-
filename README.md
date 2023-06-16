@@ -23,6 +23,10 @@
 12. Video trailer & Popup
 ![Screenshot 2023-06-15 140223](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/56a7a7ed-6784-41ab-9623-0dd563115abf)
 ![Screenshot 2023-06-15 141430](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/3a2c48bb-23be-4caf-8582-d06a773d4f6e)
+13. Blurred Image Popup
+![Screenshot 2023-06-16 144755](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/4a2b978b-f35c-4633-b03f-2bf26bf144b7)
+![Screenshot 2023-06-16 144713](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/3fd73074-8258-4fcd-9d6c-ca3d16d8dc62)
+
 
 
 
