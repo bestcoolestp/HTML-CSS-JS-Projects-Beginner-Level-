@@ -26,6 +26,8 @@
 13. Blurred Image Popup
 ![Screenshot 2023-06-16 144713](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/3fd73074-8258-4fcd-9d6c-ca3d16d8dc62)
 ![Screenshot 2023-06-16 144755](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/4a2b978b-f35c-4633-b03f-2bf26bf144b7)
+14. Simple Drum Kits
+![Screenshot 2023-06-17 131155](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-/assets/108534975/94fc0dee-4c62-471c-b12c-07c5c4bcc382)
 
 
 
